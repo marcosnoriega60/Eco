@@ -24,7 +24,7 @@ public class Main {
 				case "exit": 
 					System.exit(0);
 					break;
-				case "gonzalo":
+				case "ramiro":
 					System.out.println("Cornejo");
 					break;
 				default:
